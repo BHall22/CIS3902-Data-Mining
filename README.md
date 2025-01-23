@@ -1,2 +1,2 @@
 # CIS3902-Data-Mining
-<a href="https://gist.github.com/BHall22/cdb491185a916df400da35d9d3879696">Reading Various Types of Files in Colab</a><br>
+<a href="https://github.com/BHall22/CIS3902-Data-Mining/blob/main/reading_files_in_colab_with_jupyter_notebook.ipynb">Reading Various Types of Files in Colab</a><br>
